@@ -1,0 +1,119 @@
+.container-fluid {
+    background-color: #EEEEEE;
+}
+
+.login_login {
+    text-align: center;
+}
+
+.index_succ {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+
+body {
+    background-color: #EEEEEE;
+}
+
+.table {
+    border-collapse: inherit;
+    border: 2px solid #ccc;
+    border-radius: 20px; 
+}
+
+.main_but {
+    padding-bottom: 10px;
+}
+
+.main_hi {
+    text-align: center;
+}
+
+.controlbut a {
+    color: white;
+}
+
+.success_text {
+    text-align: center;
+}
+
+.index-left{
+float: left;
+width:560px;
+height: 580px;
+background-image: url(../../views/todo/pics/freelancer.jpg);
+}
+
+.index-right{
+float: left;
+margin-left: 20px;
+width:560px;
+height: 580px;
+background-image: url(../../views/todo/pics/worker.jpg);
+
+}
+
+
+.index-left a{
+text-align: center;
+height: 100%;
+display:block;
+}
+
+.index-right a{
+text-align: center;
+height: 100%;
+ display: block;
+
+}
+
+
+.index-left:hover{
+background-image: url(../../views/todo/pics/freelancer1.jpg);
+}
+
+.index-right:hover{
+
+background-image: url(../../views/todo/pics/worker1.jpg);
+}
+
+.text-left{
+max-width: 560px;
+float: left;
+text-align: center;
+margin-left: 150px;
+}
+
+.text-right{
+    max-width: 560px;
+    float: right;
+text-align: center;
+margin-right: 120px;
+}
+.centered{
+    text-align: center;
+}
+
+.validat{
+    margin: auto;
+text-align: center;
+max-width: 350px;
+}
+
+.pull-right a{
+color:black;
+}
+
+.about-left{
+width: 450px;
+height: 380px;
+float: left
+}
+
+.about-right{
+    height: 380px;
+    margin-left: 60px;
+width: 450px;
+float: left;
+}
